@@ -1,9 +1,14 @@
-# BlackEduAttainment
-Educational Attainment in Large Majority Black Cities
+# Which large, majority-black cities have the most educated black populations?
+Educational attainment among blacks is often reported in relation to whites, but this can obscure how other factors influence educational and economic outcomes for blacks in relation to each other. To this end, my objective is to examine where blacks in large, majority-black (>50.1%) cities are the most educated. 
 
-Educational attainment among blacks is often reported in relation to whites, but this can obscure how other factors influence educational and economic outcomes for blacks in relation to each other. To this end, my objective is to examine where blacks in large, majority-black (>50.1%) cities are the most educated. Specifically, I examine the percentage of black residents with 4-year, graduate and professional degrees in majority-black cities with populations of 100,000  or more. According to the most recent ACS Demographic and Housing Estimates, there are 21 cities in the United States that fit the criteria for analysis.  The majority-black city with the highest percentage of black residents with at least a bachelor’s degree is Washington, DC, while the city with the lowest percentage of such residents is Cleveland, Ohio. In order to ascertain what may differentiate cities with more highly educated black residents from cities with fewer highly educated black residents, I consider four additional factors: median household income, per-capita income, supplemental nutrition assistance program (SNAP) usage, and high school graduation rate. The first three roughly relate to income level, while the latter speaks directly to lower levels of robustness in the educational system. I use R to run linear regression analyses for each of these variables separately, and a multiple regression analysis for these variables in conjunction with one another.
+## Criteria for inclusion
+I examine the percentage of black residents with 4-year, graduate and professional degrees in majority-black cities with populations of 100,000  or more. According to the most recent ACS Demographic and Housing Estimates, there are 21 cities in the United States that fit my criteria for analysis.  The majority-black city with the highest percentage of black residents with at least a bachelor’s degree is Washington, DC, while the city with the lowest percentage of such residents is Cleveland, Ohio.
 
-Some of my findings are as follows:
+## Additional factors
+In order to ascertain what may differentiate cities with more highly educated black residents from cities with fewer highly educated black residents, I consider four additional factors: median household income, per-capita income, supplemental nutrition assistance program (SNAP) usage, and high school graduation rate. The first three roughly relate to income level, while the latter speaks directly to lower levels of robustness in the educational system. I use R to run linear regression analyses for each of these variables separately, and a multiple regression analysis for these variables in conjunction with one another.
+
+
+## Findings
 
 •	Among the cities examined, income serves as a key differentiating factor. Specifically, cities where a higher percentage of black residents possess at least a bachelor’s degree tend to have higher per capita and median household incomes. The correlation may reflect that college graduates typically earn more money. The direction of causality is unclear (and may be circular) – highly educated parents with more money to spend on their children may be better able to invest in those children’s education. More granular, temporal data would be useful for future inquiry in this regard.
 
