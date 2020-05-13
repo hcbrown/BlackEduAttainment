@@ -1,5 +1,5 @@
 # Which large, majority-black cities have the most educated black populations?
-Educational attainment among blacks is often reported in relation to whites, but this can obscure how other factors influence educational and economic outcomes for blacks in relation to each other. To this end, my objective is to examine where blacks in large, majority-black (>50.1%) cities are the most educated. 
+Educational attainment among blacks is often reported in relation to whites, but this can obscure how other factors influence educational and economic outcomes for blacks in relation to each other. To this end, my objective is to examine where blacks in large, majority-black (>50%) cities are the most educated. 
 
 ## Criteria for inclusion
 I examine the percentage of black residents with 4-year, graduate and professional degrees in majority-black cities with populations of 100,000  or more. According to the most recent ACS Demographic and Housing Estimates, there are 21 cities in the United States that fit my criteria for analysis.  The majority-black city with the highest percentage of black residents with at least a bachelor’s degree is Washington, DC, while the city with the lowest percentage of such residents is Cleveland, Ohio.
