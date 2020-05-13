@@ -1,4 +1,4 @@
-# Which large, majority-black cities have the most educated black populations?
+# Which large, majority-Black cities have the most educated Black populations?
 Educational attainment among Blacks is often reported in relation to whites, but this can obscure how other factors influence educational and economic outcomes for Blacks in relation to each other. To this end, my objective is to examine and compare levels of formal education among Black people in large, majority-Black (>50%) cities. 
 
 ## Criteria for inclusion
